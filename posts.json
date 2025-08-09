@@ -1,0 +1,20 @@
+ [
+  {
+    "id": 1,
+    "title": "My First Post: Why I Love Coding",
+    "author": "JONNALAGADDA PRASANNAKUMAR",
+    "date": "August 8, 2025",
+    "image": "images/coding.jpg",
+    "excerpt": "From achieving a perfect 10 CGPA in school to engineering full-stack travel solutions, my journey has been driven by a single passion: using code to solve real-world problems. This post explores how projects like Vihari and Swift Bus solidified my love for turning complex challenges into elegant, functional applications.",
+    "content": "My fascination with logic and problem-solving began long before I wrote my first line of code, starting with a 10 CGPA in my 10th-grade degree and a 96.8% in Intermediate. This foundation naturally led me to pursue a Computer Science degree at the Indian Institute Of Information Technology Sri City, where I discovered the power of programming not just as a skill, but as a tool for creation"
+  },
+  {
+    "id": 2,
+    "title": "Building My Portfolio with HTML & CSS",
+    "author": "JONNALAGADDA PRASANNAKUMAR",
+    "date": "August 15, 2025",
+    "image": "images/portfolio.jpg",
+    "excerpt": "This portfolio is more than just a resume; it's a living project built from the ground up. In this post, I break down how I used foundational HTML and modern CSS to create the clean, responsive design you're seeing now, demonstrating the power of core web technologies.",
+    "content": "Welcome to my personal portfolio! Every element on this page, from the navigation bar to the cards displaying my projects, was built by hand. I decided to use fundamental HTML and CSS for this site to showcase a strong command of the core technologies that every web application is built upon.The structure is built with semantic HTML5, using tags like and to ensure the content is not only well-organized but also accessible and SEO-friendly. For the visual layout, I relied heavily on modern CSS techniques like Flexbox and Grid to create the responsive card layout for my posts. While I have experience with frameworks like Tailwind CSS from my Vihari project, I believe a developer's fluency with vanilla CSS is essential."
+  }
+]
